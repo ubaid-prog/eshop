@@ -1,0 +1,20 @@
+<?xml version ="1.0" ?>
+<ProductListing>
+
+     <Product>
+
+     <Name>Word</Name>
+     <Description>Microsoft</Description>
+     <Price> £99</Price>
+
+     </Product>
+
+     <Product title="MSExcel">
+
+     <Name>Excel</Name>
+     <Description>Microsoft</Description>
+     <Price> £199</Price>
+
+     </Product>
+
+</ProductListing>
